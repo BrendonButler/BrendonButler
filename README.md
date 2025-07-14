@@ -1,22 +1,18 @@
-<div style="text-align: center;">
-  <img src="https://avatars.githubusercontent.com/u/8996868?v=4" alt="Profile Picture" width="100" style="border-radius: 5%;">
-  <h1 style="margin: 0; padding: 0; ">Brendon Butler</h1>
-  <h3 style="margin: 0; padding: 0; color: gray; font-style: italic;">Full-stack software developer</h3>
-  <div style="margin-top: 10px;">
+<h3 style="margin: 0; padding: 0; color: gray; font-style: italic;">Full-stack software developer</h3>
+<div style="margin-top: 10px;">
+  <p style="margin: 5px 0 0 0;">
     <a href="https://www.sparkzz.net/">
      <img src="https://img.shields.io/badge/Website-Visit-brightgreen" alt="View my React web portfolio">
     </a>
     <a href="https://www.linkedin.com/in/brendon-butler/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="Connect with me on LinkedIn!">
     </a>
-    <p style="margin: 5px 0 0 0;">
-      <img src="https://img.shields.io/badge/Software%20Developer-IDEXX%20Laboratories-036ae0" alt="Software developer at IDEXX Laboratories">
-      <img src="https://img.shields.io/badge/Learning-React%20%26%20TypeScript-blue" alt="Working towards mastering the fundamentals of React & TypeScript">
-    </p>
-    <!--<p style="margin: 5px 0 0 0;">
-      <img src="https://img.shields.io/badge/Degree-Associate's%20in%20Computer%20Science-yellow" alt="Associate's Degree in Computer Science (coming soon!)">
-    </p>-->
-  </div>
+  </p>
+  <p style="margin: 5px 0 0 0;">
+    <img src="https://img.shields.io/badge/Software%20Developer-IDEXX%20Laboratories-036ae0" alt="Software developer at IDEXX Laboratories"><br />
+    <img src="https://img.shields.io/badge/Degree-Associate's%20in%20Computer%20Science-yellow" alt="Associate's Degree in Computer Science"><br />
+    <img src="https://img.shields.io/badge/Learning-Game%20Development-blue" alt="Learning game development on the side"><br />
+  </p>
 </div>
 
 ---
@@ -50,10 +46,16 @@
     <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" title="AWS Cloud Practitioner" alt="AWS Cloud Practitioner" width="80" style="margin-right: 10px;">
   </a>
   <a href="https://learn.datadoghq.com/certificates/mtpp0uuici">
-    <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.betterbuys.com%2Fwp-content%2Fuploads%2F2019%2F12%2Fdd_logo_v_rgb.png&sp=1723154844Ta92571e94e7fe7e25229d04ab1a0506024b9dafd81a4250cee599d78bc13dbc8" title="Datadog 101 for SREs" alt="Datadog 101 for SREs" width="80" style="margin-right: 10px;">
+    <img src="https://companieslogo.com/img/orig/DDOG_BIG-fc600245.png?t=1634120747" title="Datadog 101 for SREs" alt="Datadog 101 for SREs" width="80" style="margin-right: 10px;">
   </a>
   <a href="https://learn.datadoghq.com/certificates/nhp08zsuok">
-    <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.betterbuys.com%2Fwp-content%2Fuploads%2F2019%2F12%2Fdd_logo_v_rgb.png&sp=1723154844Ta92571e94e7fe7e25229d04ab1a0506024b9dafd81a4250cee599d78bc13dbc8" title="SRE in Practice: SLO Management and Collaborative Investigations" alt="SRE in Practice: SLO Management and Collaborative Investigations" width="80">
+    <img src="https://companieslogo.com/img/orig/DDOG_BIG-fc600245.png?t=1634120747" title="SRE in Practice: SLO Management and Collaborative Investigations" alt="SRE in Practice: SLO Management and Collaborative Investigations" width="80">
+  </a>
+  <a href="https://ui.dev/certificate/react/8K2QQUzOx1hzsWW4XSW3tVdmCs53">
+    <img src="https://ui.dev/images/logos/circle.png" title="react.gg certified completion" alt="react.gg certified completion" width="80">
+  </a>
+  <a href="https://ui.dev/certificate/typescript/8K2QQUzOx1hzsWW4XSW3tVdmCs53">
+    <img src="https://ui.dev/images/logos/circle.png" title="ui.dev typescript certified completion" alt="ui.dev typescript certified completion" width="80">
   </a>
 </p>
 
@@ -66,6 +68,6 @@
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="GitHub" alt="GitHub" width="50" style="margin-right: 20px;">
   </a>
   <a href="#">
-    <img src="https://www.iconarchive.com/download/i149137/simpleicons-team/simple/apache-maven.1024.png" title="Maven" alt="Maven" width="50">
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" title="Maven" alt="Maven" width="50">
   </a>
 </p>
